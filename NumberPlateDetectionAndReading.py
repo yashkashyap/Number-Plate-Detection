@@ -180,9 +180,7 @@ def read_number_plate(original_car_image):
 
 if __name__ == '__main__':
 
-    path = 'NumberPlateImages/fiesta.jpg'
-
-
+    path = 'NumberPlateImages/skoda.jpg'
 
     try:
 	    carImage = read_image(path)
