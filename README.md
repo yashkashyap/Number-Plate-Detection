@@ -5,3 +5,6 @@
   <li>Image Processing with OpenCV to refine the image as per the requirements.</li>  
   <li>Use of Haarcascade for Number Plate Detection.</li>  
 <ol>
+<hr>
+<h1>Results:</h1>
+  <img src="Sample.png"></img>
